@@ -84,7 +84,7 @@
 <br>
 
 <li>
-<a href="www.gmail.com" target="_blank">
+<a href="[www.gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrlmhzwnSKNDDbcmxLxBXDJkpQngqVQpBLhpHBRWtMJlrdbcpklvwMtxsMPfzlnvGzvCT)" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Jonatan Cardozo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
