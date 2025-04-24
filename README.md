@@ -14,7 +14,7 @@
 
 <br>
 
-- Estudiante de la Tecnicatura Universitaria en Progracion
+- Tecnico Universitario en Programción
 - Muy responsable
 - Ganas de aprender todo el tiempo
 <br><br>
